@@ -1,0 +1,23 @@
+.row.footer {
+    float: right;
+}
+.site-header {
+  padding: 15px 0;
+  }
+  .fa-2x{font-size: 1.5em;}
+p.colophon {
+    text-align: center;
+}
+
+html.js.cssgradients.csstransforms.csstransitions.svg.inlinesvg.svgclippaths {
+    background-color: #262936;
+}
+p#error {
+    background: #262936;
+    padding-bottom: -14px;
+    margin-bottom: 0px;
+    padding-top: 16px;
+    font-size: 30px;
+    font-weight: 20px;
+    text-align: center
+}
